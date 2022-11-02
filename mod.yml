@@ -1,5 +1,5 @@
 title: Quick Run BLJ
-description: This mod replcates Super Mario 64's backwards long jump glitch through quick run! As you hold down your quick run movement, you'll accelerate backwards rapidly! Each level increases the rate you'll accelerate backwards!
+description: This mod replicates Super Mario 64's backwards long jump glitch through quick run! As you HOLD your quick run movement, you'll accelerate backwards rapidly! Each level increases the rate you'll accelerate backwards!
 assets:
 #Lua Scripts
 - name: scripts/quickrunBLJ.lua
